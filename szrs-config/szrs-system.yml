@@ -1,5 +1,4 @@
 config:
-    source: git
     profile:szrs-system root
     message: this is a config file from git
     version: 0.0.1

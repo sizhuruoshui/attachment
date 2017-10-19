@@ -1,3 +1,4 @@
 config:
+    source: git
     profile: root
     group: com.szrs
